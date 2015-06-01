@@ -4,17 +4,17 @@
 
 #### These are the current themes:  
 
-* Forecasting  
+* Forecasting   
   Predicting demand and availability using history, environmental, operational and other data  
 
-* Managing Availability
+* Managing Availability  
    Optimal movement of bikes so that bikes and space are available where and when they are needed  
 
 * Customer Insight  
 Understanding motivations and behaviour  
 
-* Scheme Design  
+* Scheme Design   
 Station placement, bike to dock ratio... 
 
-* Whole-Business Analysis  
+* Whole-Business Analysis   
 Modelling how the various aspects of the business work together to drive performance, and thus enabling more efficient investment decisions  
